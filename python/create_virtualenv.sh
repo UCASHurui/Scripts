@@ -1,3 +1,3 @@
 #!/bin/zsh
 
-mkvirtualenv my_project
+mkvirtualenv -p python3 my_project
